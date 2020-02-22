@@ -1,0 +1,8 @@
+COIN_NAME="peps"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="pepsd"
+COIN_CLI="peps-cli"
+COIN_FOLDER="/root/.peps"
+COIN_CONFIG="peps.conf"
+RPC_PORT=16263
+COIN_SERVICE="peps.service"
